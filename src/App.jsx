@@ -189,7 +189,7 @@ function App() {
           . Use a device you trust.
         </p>
         <p className="credit">
-          <span>nheetxx</span>
+          <span>2026 nheetxx.</span>
           <span>dibuat dengan sepenuh hati {'<3'}</span>
         </p>
       </footer>
